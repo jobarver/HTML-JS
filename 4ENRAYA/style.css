@@ -1,0 +1,11 @@
+body {
+  background: #fff;
+}
+
+#game-canvas {
+  display: block;
+  margin: 1em auto;
+  border-radius: 3px;
+  overflow: hidden;
+  background: none;
+}
